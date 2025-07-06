@@ -1,0 +1,15 @@
+{
+    "id": "io.github.parsemonkey.PersonalHistoryTimeline",
+    "runtime": "org.freedesktop.Platform",
+    "runtime-version": "23.08",
+    "sdk": "org.freedesktop.Sdk",
+    "command": "personal-history-timeline",
+    "icon": "io.github.parsemonkey.PersonalHistoryTimeline",
+    "name": "Personal History Timeline",
+    "version": "1.0",
+    "description": "A timeline application for managing family memories",
+    "developer": "Robert Bascom dba parsemonkey",
+    "copyright": "Copyright (c) 2025 Robert Bascom dba parsemonkey",
+    "license": "Trial",
+    "trial_period": "21 days"
+}
