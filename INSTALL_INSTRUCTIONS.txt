@@ -1,0 +1,75 @@
+# Personal History Timeline - Installation Instructions
+Robert Bascom dba parsemonkey
+Trial Version - 21 days evaluation period
+
+## About This Software
+Personal History Timeline is a desktop application designed for families
+who want an easy-to-use software tool to capture, manage and recall special
+events and memories that occur over the course of their lives together.
+
+**This is trial software with a 21 days evaluation period.**
+
+## System Requirements
+- Linux operating system
+- Flatpak installed and configured
+- X11 or Wayland display server
+
+## Installation Instructions
+
+### 1. Install Flatpak (if not already installed)
+On Ubuntu/Debian:
+```bash
+sudo apt install flatpak
+```
+
+On Fedora:
+```bash
+sudo dnf install flatpak
+```
+
+On other distributions, please refer to: https://flatpak.org/setup/
+
+### 2. Install Personal History Timeline
+```bash
+flatpak install --user Personal_History_Timeline_v1.0.flatpak
+```
+
+### 3. Run the Application
+```bash
+flatpak run io.github.parsemonkey.PersonalHistoryTimeline
+```
+
+Or find "Personal History Timeline" in your application menu.
+
+## First Run
+- The application will create a data directory at: `~/.local/share/PersonalHistoryTimeline`
+- This is a hidden file, so remember to 'show hidden files' in your file manager
+- Your timeline application will be stored at this location
+- Sample data can be found in a sub-folder named sample_data.
+
+## Trial Information
+- This version provides a 21 days evaluation period
+- After the trial period, the application will be disabled
+- For licensing and purchase information, click the About button in the application
+
+## Uninstallation
+To remove the application:
+```bash
+flatpak uninstall --user io.github.parsemonkey.PersonalHistoryTimeline
+```
+
+To remove application data:
+```bash
+rm -rf ~/.local/share/PersonalHistoryTimeline
+```
+
+## Support
+For technical support or questions, contact: parsemonkey@gmail.com
+
+## Version Information
+- Application: Personal History Timeline v1.0
+- Bundle created: 2025-07-06 15:29:40
+- Developer: Robert Bascom dba parsemonkey
+
+---
+Copyright (c) 2025 Robert Bascom dba parsemonkey
