@@ -4,7 +4,7 @@ This directory contains the distribution files for the Personal History Timeline
 
 ## About the Application
 
-Personal History Timeline is a comprehensive application for creating, managing, and visualizing personal historical events. It provides an intuitive interface for organizing life events, managing data, and creating meaningful timelines.
+Personal History Timeline is a comprehensive application for creating, managing, and visualizing personal memories and events. It provides an intuitive interface for organizing life events, managing data, and creating meaningful timelines.
 
 ## Files Included
 
