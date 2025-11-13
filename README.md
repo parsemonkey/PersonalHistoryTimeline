@@ -2,7 +2,7 @@
 
 **Visualize and organize your life events in an interactive timeline.**
 
-A Windows desktop application for creating, managing, and exploring your personal history with rich metadata, powerful search, and beautiful timeline visualizations.
+A desktop application for creating, managing, and exploring your personal history with rich metadata, powerful search, and beautiful timeline visualizations.
 
 ## Features
 
@@ -38,11 +38,11 @@ A Windows desktop application for creating, managing, and exploring your persona
 
 ## Technical Details
 
-- **Platform**: Windows
+- **Platforms**: Windows, Linux
 - **Framework**: PySide6 (Qt6)
 - **Language**: Python
 - **Database**: SQLite
-- **Version**: 2.1.1
+- **Version**: 2.2.1
 
 ## License
 
@@ -52,7 +52,7 @@ Trial version available with full functionality and sample data. Personal versio
 
 - **Developer**: Robert Bascom dba parsemonkey
 - **Email**: parsemonkey@gmail.com
-- **Website**: https://parsemonkey.net
+- **Website**: http://parsemonkey.net
 
 ---
 
