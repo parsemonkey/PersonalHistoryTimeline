@@ -42,7 +42,7 @@ A desktop application for creating, managing, and exploring your personal histor
 - **Framework**: PySide6 (Qt6)
 - **Language**: Python
 - **Database**: SQLite
-- **Version**: 2.2.1
+- **Version**: 2.2.2
 
 ## License
 
